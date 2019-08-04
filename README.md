@@ -1,8 +1,8 @@
-# Resenhas de Vinhoos
+# Resenhas de Vinhos
 
 Este repositório contém uma breve análise de 130 mil resenhas de vinhos incluindo tipo de uva, localidade, vinícola, preço e descrição, utilizando a linguagem Python.
 
-O arquivo `analise-vinhos.ipynb` é um [Notebook Jupyter](https://jupyter.org/) que procura responder as seguintes perguntas:
+O arquivo [analise-vinhos.ipynb](analise-vinhos.ipynb) é um [Notebook Jupyter](https://jupyter.org/) que procura responder as seguintes perguntas:
 
 1. Quais países produzem, em média, os melhores vinhos? E os piores?
 2. Quais os melhores e piores vinhos em relação a custo/benefício?
